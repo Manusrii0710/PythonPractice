@@ -1,4 +1,4 @@
-#Simpple calculator
+#Simple calculator
 import math
 print("1.Addition\n2.Subtraction\n3.Multiplication\n4.Division\n5.Exponentiation\n6.Square Root\n7.Logarithm")
 choice = input("Enter your choice (1-7): ")
