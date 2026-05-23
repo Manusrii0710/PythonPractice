@@ -16,6 +16,15 @@ A simple command-line utility that performs basic unit conversions.
 - Kilometers → Miles
 - Kilograms → Pounds
 
+### 🔹 Simple Calculator
+A simple command-line utility that performs basic arithmetic operations.
+
+#### Features
+- Addition, Subtraction, Multiplication, Division
+- Power
+- Square Root
+- Logarithm
+
 ---
 
 ## 🎯 Goals
