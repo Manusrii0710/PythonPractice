@@ -25,6 +25,15 @@ A simple command-line utility that performs basic arithmetic operations.
 - Square Root
 - Logarithm
 
+### 🔹 Folder Creator
+A simple Python program that creates multiple folders automatically based on user input.
+
+#### Features
+- Takes folder names from the user
+- Creates folders automatically
+- Checks if a folder already exists
+- Supports multiple folder creation at once
+
 ---
 
 ## 🎯 Goals
